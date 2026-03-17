@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Ranirajput30/RaniRajput30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BTech_G2F_RANISINGHRAJPUT_68/BTech_G2F_RANISINGHRAJPUT_68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
